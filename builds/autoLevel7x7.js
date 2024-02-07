@@ -10,4 +10,5 @@ module.exports = {
             ["GRID_MAX_POINTS_X", 7]
         ]
     }
+    // test
 };
