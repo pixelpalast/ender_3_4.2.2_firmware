@@ -2063,9 +2063,9 @@
         //#define FIL_MOTION8_PULLUP
         //#define FIL_MOTION8_PULLDOWN
       #endif
-    #endif // FILAMENT_MOTION_SENSOR
-  #endif // FILAMENT_RUNOUT_DISTANCE_MM
-#endif // FILAMENT_RUNOUT_SENSOR
+    #endif
+  #endif
+#endif
 
 //===========================================================================
 //=============================== Bed Leveling ==============================
